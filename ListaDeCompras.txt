@@ -1,0 +1,37 @@
+Lista de compras para una carnita asada :>
+
+Comida
+- Carne de Res
+- Longaniza
+- Chistorra
+- Barbacoa
+- Suadero
+- Chicharron
+- Carnitas
+- Maciza
+- Costilla
+- Tortillas
+- Queso
+
+Bebidas
+- Agua de jamaica
+- Refresco
+- Cerveza
+- Vodka
+- Tequila
+- Bacardi
+
+Extras
+- Hielos
+- Salsa
+- Chiles en vinagre
+- Carbon
+- Bracero / Parrillas
+- Papas
+
+Lugar 
+Casa de Rene
+13:00 hrs
+
+#TODO/ #FIXME: Resolver este problema
+¿Habra sillas o a banquetazo?
